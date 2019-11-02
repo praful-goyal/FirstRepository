@@ -9,6 +9,7 @@ object TestInterview2 {
     val kafkaParams = Map[String, String]("metadata.broker.list" -> brokers)
     println(topicsSet)
     println(kafkaParams)
+	println(kafkaParams1)
     
   }
   
