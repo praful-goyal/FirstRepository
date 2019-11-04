@@ -10,6 +10,7 @@ object TestInterview2 {
     println(topicsSet)
     println(kafkaParams)
 	println(kafkaParams1)
+	  println(kafkaParams1)
     
   }
   
